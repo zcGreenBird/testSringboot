@@ -1,5 +1,5 @@
 server:
-  port: 7006
+  port: 7008
 eureka:
   instance:
     hostname: 192.168.101.129  # eureka服务端的实力名称
